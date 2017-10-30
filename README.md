@@ -1,2 +1,2 @@
 # song-predictability
-MATLAB code to predict and generate rhythms
+MATLAB code to predict and generate rhythms. Unfortunately not currently in an organised state...
